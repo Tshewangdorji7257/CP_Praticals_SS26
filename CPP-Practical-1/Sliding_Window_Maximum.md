@@ -2,7 +2,7 @@
 
 ### Problem Summary
 
-This program finds the maximum element in every window of size K in an
+In this task finds the maximum element in every window of size K in an
 array.
 
 ### Algorithm Explanation

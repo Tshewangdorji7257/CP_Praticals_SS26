@@ -2,7 +2,7 @@
 
 ### Problem Summary
 
-This program removes duplicate numbers from a list of integers and
+In this task removes duplicate numbers from a list of integers and
 prints only unique values.
 
 ### Algorithm Explanation

@@ -2,7 +2,7 @@
 
 ### Problem Summary
 
-This program calculates the median of numbers continuously as new
+In this task calculates the median of numbers continuously as new
 numbers are added.
 
 ### Algorithm Explanation

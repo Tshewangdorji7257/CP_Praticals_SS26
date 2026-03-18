@@ -2,7 +2,7 @@
 
 ### Problem Summary
 
-This program counts how many subsets of a set have an even sum.
+In this task counts how many subsets of a set have an even sum.
 
 ### Algorithm Explanation
 

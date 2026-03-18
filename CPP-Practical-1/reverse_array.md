@@ -2,7 +2,7 @@
 
 ### Problem Summary
 
-This program reads N integers and prints them in reverse order.
+In this taskreads N integers and prints them in reverse order.
 
 ### Algorithm Explanation
 

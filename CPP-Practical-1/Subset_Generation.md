@@ -2,7 +2,7 @@
 
 ### Problem Summary
 
-This program prints all possible subsets of a given set of numbers.
+In this task prints all possible subsets of a given set of numbers.
 
 ### Algorithm Explanation
 

@@ -2,7 +2,7 @@
 
 ### Problem Summary
 
-This program finds the K largest numbers from a list of N numbers.
+In this task finds the K largest numbers from a list of N numbers.
 
 ### Algorithm Explanation
 

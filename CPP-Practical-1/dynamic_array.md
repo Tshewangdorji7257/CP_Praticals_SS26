@@ -2,7 +2,7 @@
 
 ### Problem Summary
 
-This program reads N numbers and stores them in a vector. Then it finds
+In this task reads N numbers and stores them in a vector. Then it finds
 the maximum element, minimum element, and the sum of all elements in the
 array.
 

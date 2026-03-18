@@ -2,7 +2,7 @@
 
 ### Problem Summary
 
-This program simulates a line of people using operations like
+In this task simulates a line of people using operations like
 push_front, push_back, pop_front, and pop_back.
 
 ### Algorithm Explanation

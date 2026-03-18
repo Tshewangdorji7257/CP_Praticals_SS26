@@ -2,7 +2,7 @@
 
 ### Problem Summary
 
-This program counts the number of subsets whose sum equals a given
+In this task counts the number of subsets whose sum equals a given
 target value.
 
 ### Algorithm Explanation
